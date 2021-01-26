@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/praveenorugantitech-memory-game-reactjs/static/css/main.18894532.chunk.css",
-    "main.js": "/praveenorugantitech-memory-game-reactjs/static/js/main.3608ba9f.chunk.js",
-    "runtime-main.js": "/praveenorugantitech-memory-game-reactjs/static/js/runtime-main.568a42e7.js",
-    "static/js/2.c27a8ac5.chunk.js": "/praveenorugantitech-memory-game-reactjs/static/js/2.c27a8ac5.chunk.js",
-    "index.html": "/praveenorugantitech-memory-game-reactjs/index.html",
-    "static/js/2.c27a8ac5.chunk.js.LICENSE.txt": "/praveenorugantitech-memory-game-reactjs/static/js/2.c27a8ac5.chunk.js.LICENSE.txt"
+    "main.css": "/praveenorugantitech-memory-reactjs/static/css/main.18894532.chunk.css",
+    "main.js": "/praveenorugantitech-memory-reactjs/static/js/main.470285d2.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-memory-reactjs/static/js/runtime-main.a6d29dbb.js",
+    "static/js/2.e31d2c93.chunk.js": "/praveenorugantitech-memory-reactjs/static/js/2.e31d2c93.chunk.js",
+    "index.html": "/praveenorugantitech-memory-reactjs/index.html",
+    "static/js/2.e31d2c93.chunk.js.LICENSE.txt": "/praveenorugantitech-memory-reactjs/static/js/2.e31d2c93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.568a42e7.js",
-    "static/js/2.c27a8ac5.chunk.js",
+    "static/js/runtime-main.a6d29dbb.js",
+    "static/js/2.e31d2c93.chunk.js",
     "static/css/main.18894532.chunk.css",
-    "static/js/main.3608ba9f.chunk.js"
+    "static/js/main.470285d2.chunk.js"
   ]
 }
