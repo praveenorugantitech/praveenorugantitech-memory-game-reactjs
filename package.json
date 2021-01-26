@@ -1,6 +1,6 @@
 {
-  "homepage": "https://praveenorugantitech.github.io/praveenorugantitech-memory-game-reactjs/",
-  "name": "praveenorugantitech-memory-game",
+  "homepage": "https://praveenorugantitech.github.io/praveenorugantitech-memory-reactjs/",
+  "name": "praveenorugantitech-memory-reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
