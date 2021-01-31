@@ -1,7 +1,21 @@
 # Memory Game developed using React JS
 
-<div>
-<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
-</div>
+### App Screenshots
 
-[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-memory-reactjs/)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-reactjs/master/src/images/screenshot.PNG)
+
+
+### Live Demo
+
+[https://praveenorugantitech.github.io/praveenorugantitech-memory-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-memory-reactjs/)
+
+
+### Setup Local Instructions
+
+```
+git clone https://github.com/praveenorugantitech/praveenorugantitech-memory-reactjs.git
+cd praveenorugantitech-memory-reactjs
+npm install
+npm start
+
+```
