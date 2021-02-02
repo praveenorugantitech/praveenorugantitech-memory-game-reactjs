@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/praveenorugantitech-memory-reactjs/static/css/main.18894532.chunk.css",
-    "main.js": "/praveenorugantitech-memory-reactjs/static/js/main.a4560eaf.chunk.js",
+    "main.js": "/praveenorugantitech-memory-reactjs/static/js/main.e9e45612.chunk.js",
     "runtime-main.js": "/praveenorugantitech-memory-reactjs/static/js/runtime-main.a6d29dbb.js",
     "static/js/2.e31d2c93.chunk.js": "/praveenorugantitech-memory-reactjs/static/js/2.e31d2c93.chunk.js",
     "index.html": "/praveenorugantitech-memory-reactjs/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.a6d29dbb.js",
     "static/js/2.e31d2c93.chunk.js",
     "static/css/main.18894532.chunk.css",
-    "static/js/main.a4560eaf.chunk.js"
+    "static/js/main.e9e45612.chunk.js"
   ]
 }
