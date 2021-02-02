@@ -23,7 +23,7 @@ export default class Winner extends React.Component {
         <h1>You Won!!</h1>
         <img
           alt=""
-          src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/happy.gif"
+          src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/happy.gif"
         />
         <button className="button" onClick={() => resetGame()}>
           Reset
