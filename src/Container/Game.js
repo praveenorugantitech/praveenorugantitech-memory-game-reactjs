@@ -5,18 +5,18 @@ import Score from '../Components/Score'
 
 // Sets up images before game start.
 const imgs =[
-  {id:1,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/dhoni.jpg', faceUp:false},
-  {id:2 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/ganguly.jpg', faceUp:false},
-  {id:3,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/kaif.jpg',faceUp:false },
-  {id:4 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/mithali.jpg', faceUp:false},
-  {id:5,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/rohit.jpg',faceUp:false},
-  {id:6 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/sachin.jpg',faceUp:false},
-  {id:7,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/smriti.jpg',faceUp:false},
-  {id:8 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/virat.jpg',faceUp:false},
-  {id:9,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/ashwin.jpg', faceUp:false},
-  {id:10 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/siraj.jpg',faceUp:false},
-  {id:11,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/pant.jpg',faceUp:false},
-  {id:12 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/images/natarajan.jpg',faceUp:false}
+  {id:1,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/dhoni.jpg', faceUp:false},
+  {id:2 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/ganguly.jpg', faceUp:false},
+  {id:3,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/kaif.jpg',faceUp:false },
+  {id:4 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/mithali.jpg', faceUp:false},
+  {id:5,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/rohit.jpg',faceUp:false},
+  {id:6 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/sachin.jpg',faceUp:false},
+  {id:7,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/smriti.jpg',faceUp:false},
+  {id:8 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/virat.jpg',faceUp:false},
+  {id:9,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/ashwin.jpg', faceUp:false},
+  {id:10 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/siraj.jpg',faceUp:false},
+  {id:11,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/pant.jpg',faceUp:false},
+  {id:12 ,url:'https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-memory-js/master/Demo/images/natarajan.jpg',faceUp:false}
 ];
 
 let newObjects = [...imgs,...imgs]
